@@ -10,7 +10,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "cypress": "cypress open",
-    "e2e":"start-server-and-test dev 3000 cypress"
+    "e2e": "start-server-and-test dev 3000 cypress"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
@@ -23,7 +23,7 @@
     "@types/react-dom": "18.2.21",
     "dayjs": "^1.11.10",
     "mongoose": "^8.2.3",
-    "next-auth": "^4.23.2",
+    "next-auth": "^4.24.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-redux": "^8.1.3",
